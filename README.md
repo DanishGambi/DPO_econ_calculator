@@ -54,7 +54,7 @@ For a precise, granular financial breakdown of your program by individual module
 ## 👨‍💻 Team
 
 This project was a collaborative effort by:
-*   **Dmitry Malyuzhantsev:** Lead developer of the core cost calculation logic and module breakdown; team coordinator.
+*   **Dmitrii Maliuzhantsev:** Lead developer of the core cost calculation logic and module breakdown; team coordinator.
 *   **Ivan Zolotunov:** Designed and implemented the input sheet structure and the final report formatting.
 *   **Roman Galimov:** Created the user guide and developed the marketing cost calculation mechanics.
 *   **Kirill Reshchuk:** Defined project goals and objectives, handled project design, and prepared the final presentation.
